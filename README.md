@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/iPhone%20Duo-mente%C5%9Fe%20deste%C4%9Fi-111111" alt="iPhone Duo menteşe desteği" />
   <img src="https://img.shields.io/badge/Apple%20Pencil-PencilKit-FF9F0A" alt="Apple Pencil, PencilKit" />
   <img src="https://img.shields.io/badge/Xcode-27-147EFB?logo=xcode&logoColor=white" alt="Xcode 27" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="Lisans: AGPL v3" /></a>
 </p>
 
 <p align="center">
@@ -117,6 +118,10 @@ swift scripts/make-icon.swift docs/app-icon.png
 - iPhone ve iPhone Duo simülatörlerinde denendi.
 - Apple Watch uygulaması ve widget derleniyor; henüz bir cihazda ya da simülatörde çalıştırılarak denenmedi.
 - Çeviriler makine yazımıdır.
+
+## Lisans
+
+Bu proje [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0) ile lisanslanmıştır. MasterFabric'in [osmea](https://github.com/masterfabric-mobile/osmea) projesiyle aynı lisans. Yazılımı değiştirip ağ üzerinden sunarsanız, değişikliklerinizin kaynak kodunu aynı lisansla kullanıcılarınıza sunmanız gerekir.
 
 ## Yazar
 
