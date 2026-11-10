@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="docs/app-icon.png" width="160" alt="Note uygulama ikonu" />
+  <img src="docs/app-icon.png" width="160" alt="Note app icon" />
 </p>
 
 <h1 align="center">Note</h1>
 
 <p align="center">
-  Klasik siyah mermer desenli okul defterinin iPhone, iPad, iPhone Duo ve Apple Watch için yeni nesil hâli.
+  The classic black marble composition notebook, reimagined for iPhone, iPad, iPhone Duo and Apple Watch.
 </p>
 
 <p align="center">
@@ -13,89 +13,89 @@
   <img src="https://img.shields.io/badge/SwiftUI-100%25-0A84FF?logo=swift&logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/iOS-18%2B-000000?logo=apple&logoColor=white" alt="iOS 18+" />
   <img src="https://img.shields.io/badge/watchOS-11%2B-000000?logo=apple&logoColor=white" alt="watchOS 11+" />
-  <img src="https://img.shields.io/badge/iPhone%20Duo-mente%C5%9Fe%20deste%C4%9Fi-111111" alt="iPhone Duo menteşe desteği" />
+  <img src="https://img.shields.io/badge/iPhone%20Duo-hinge%20support-111111" alt="iPhone Duo hinge support" />
   <img src="https://img.shields.io/badge/Apple%20Pencil-PencilKit-FF9F0A" alt="Apple Pencil, PencilKit" />
   <img src="https://img.shields.io/badge/Xcode-27-147EFB?logo=xcode&logoColor=white" alt="Xcode 27" />
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="Lisans: AGPL v3" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3" /></a>
 </p>
 
 <p align="center">
   <a href="https://masterfabric.co">masterfabric.co</a> ·
-  Yazar: <a href="https://github.com/gurkanfikretgunak">Gürkan Fikret Günak</a> ·
+  Author: <a href="https://github.com/gurkanfikretgunak">Gürkan Fikret Günak</a> ·
   <code>com.masterfabric.note</code>
 </p>
 
 <p align="center">
-  <img src="docs/iphone-library.png" width="260" alt="Defterler ekranı" />
+  <img src="docs/iphone-library.png" width="260" alt="Notebook library" />
 </p>
 
-## Özellikler
+## Features
 
-**Defter**
+**Notebooks**
 
-- Siyah mermer desenli, siyah sırtlı, etiketli klasik kapak; 7 renk, 4 soyut desen (mermer, dalgalar, halkalar, mozaik) ya da galeriden kapak fotoğrafı.
-- A4 oranında 6 kâğıt tipi: kareli (5 mm), çizgili, kılavuz çizgili, noktalı, geometrik, düz. Kâğıt ekranı kenardan kenara kaplar.
-- Sayfa geçişi: 3D sayfa kıvırma ya da 2D kaydırma.
-- Okuma modu, açık / koyu tema ve sıcak tonlu okuma kâğıdı.
+- Classic black marble cover with a black spine and a white label. Choose from 7 colors, 4 abstract patterns (marble, waves, rings, mosaic), or a photo from your library.
+- Six A4 paper styles: squared (5 mm), lined, guide lines, dotted, geometric, and blank. Paper fills the whole screen edge to edge.
+- Page turns: 3D page curl or 2D slide.
+- Reading mode, light and dark themes, and a warm reading paper option.
 
-**Yazım ve çizim**
+**Writing and drawing**
 
-- PencilKit ile Apple Pencil ya da parmakla çizim; isteğe bağlı "yalnızca Pencil" modu.
-- Klavyeyle sayfaya yazı.
-- Çıkartmalar ve nesneler: beyaz kenarlı çıkartmalar, yardımcı etiketler (YAPILACAK, ÖNEMLİ, FİKİR, bugünün tarihi…), yapışkan notlar, bant, 5 stilde metin kutusu ve şekiller. Sürüklerken kalkar, bırakınca dokunsal geri bildirimle sayfaya yapışır; tutamaçla büyütülür ve döndürülür.
+- Draw with Apple Pencil or your finger, powered by PencilKit. An optional "Apple Pencil only" mode lets your finger turn pages.
+- Type text directly onto a page.
+- Stickers and objects: white-edged stickers, handy labels (TO DO, IMPORTANT, IDEA, today's date, and more), sticky notes, washi tape, five styles of text boxes, and shapes. Lift an item to move it, press it back onto the paper with haptic feedback, and resize or rotate it with the corner handle.
 
-**Hızlı eylemler ve paylaşım**
+**Quick actions and sharing**
 
-- Sayfayı görsel, defteri PDF olarak paylaşma.
-- Yapay zekâ agent'larına gönderme: sayfa görseli, cihazda tanınan el yazısı ve hazır istem (özetle, yapılacaklar listesine çevir, temize çek) paylaşım sayfasına verilir.
-- Ana ekran kısayolları, Siri / Kısayollar eylemleri ve `mfnote://quick`, `mfnote://new`, `mfnote://continue` bağlantıları.
-- Ana ekran ve kilit ekranı widget'ı.
+- Share a page as an image, or a whole notebook as a PDF.
+- Send a page to an AI agent: the page image, recognized handwriting, and a ready-made prompt (summarize, turn into a to-do list, clean up notes) go into the share sheet.
+- Home screen shortcuts, Siri and Shortcuts actions, and URL links: `mfnote://quick`, `mfnote://new`, `mfnote://continue`.
+- Home screen and Lock Screen widgets.
 
 **Apple Watch**
 
-- Defter listesi, son notlar ve bilekten hızlı not; not telefondaki "Hızlı Notlar" defterine düşer.
+- Notebook list, recent notes, and quick notes from your wrist. Notes you add on the watch land in the Quick Notes notebook on your iPhone.
 
 ## iPhone Duo
 
-Katlanabilir ekran için iOS 27.1 menteşe API'si (`onHingeChange`) kullanılır:
+Note uses the iOS 27.1 hinge API (`onHingeChange`) on foldable devices:
 
-- **Katlıyken** ekranda açık olan defterin kendi kapağı tam ekran görünür (rengi, deseni ya da fotoğrafı neyse o). Kapağın altında *Aç*, *Hızlı Not* ve *Kapağı Değiştir* düğmeleri bulunur.
-- **Açılırken** kapak, menteşe açısına göre sırt kenarı etrafında döner ve sayfayı ortaya çıkarır.
-- **Açıkken** kâğıt geniş ekranın tamamını kaplar; A4 alanının dışına da yazılabilir.
-- Ayarlar → *Katlıyken kapağı göster* ile kapatılabilir.
+- **Folded shut:** the cover of the notebook you were using fills the screen, in its own color, pattern, or photo. Below it are *Open*, *Quick Note*, and *Change Cover* buttons.
+- **Opening:** the cover swings open around its spine, following the hinge angle, and reveals the page.
+- **Open:** the sheet covers the full wide screen and drawing works across all of it.
+- You can turn this off in Settings with *Show cover when folded*.
 
-## Teknoloji
+## Technology
 
-| Katman | Kullanılan |
+| Layer | Used for |
 | --- | --- |
-| Arayüz | SwiftUI, Observation (`@Observable`) |
-| Çizim | PencilKit (`PKCanvasView`, `PKToolPicker`) |
-| Sayfa geçişi | `UIPageViewController` (page curl / scroll) |
-| El yazısı tanıma | Vision (`VNRecognizeTextRequest`), cihaz üzerinde |
-| Kısayollar | App Intents, `UIApplicationShortcutItem`, URL şeması |
-| Widget | WidgetKit, App Group ile veri paylaşımı |
-| Saat | WatchConnectivity |
-| Katlanabilir | SwiftUI `onHingeChange` / `DeviceHinge` |
-| Proje | XcodeGen (`project.yml`) |
-| Diller | İngilizce, Türkçe (String Catalog) |
+| UI | SwiftUI, Observation (`@Observable`) |
+| Drawing | PencilKit (`PKCanvasView`, `PKToolPicker`) |
+| Page turning | `UIPageViewController` (page curl and scroll) |
+| Handwriting recognition | Vision (`VNRecognizeTextRequest`), on device |
+| Shortcuts | App Intents, `UIApplicationShortcutItem`, URL scheme |
+| Widgets | WidgetKit, data shared through an App Group |
+| Watch | WatchConnectivity |
+| Foldables | SwiftUI `onHingeChange` / `DeviceHinge` |
+| Project | XcodeGen (`project.yml`) |
+| Language | English (source) |
 
-Üçüncü taraf bağımlılık yoktur. Veriler cihazda kalır: `library.json` ve sayfa başına bir PencilKit dosyası.
+There are no third-party dependencies. Data stays on the device: a `library.json` file plus one PencilKit drawing file per page.
 
-## Proje yapısı
+## Project structure
 
 ```
-Note/          iOS uygulaması (iPhone, iPad, Duo)
-  Views/       Kütüphane, kapak, kâğıt, sayfa, çıkartmalar, ayarlar, menteşe kapağı
-  Tools/       Dışa aktarım, el yazısı tanıma, App Intents, saat ve widget köprüsü
-NoteWatch/     watchOS uygulaması
-NoteWidget/    Ana ekran ve kilit ekranı widget'ı
-Shared/        Ortak model ve çeviriler
-scripts/       App icon üretici betik
+Note/          iOS app (iPhone, iPad, Duo)
+  Views/       Library, cover, paper, page, stickers, settings, hinge cover
+  Tools/       Export, handwriting recognition, App Intents, watch and widget bridge
+NoteWatch/     watchOS app
+NoteWidget/    Home screen and Lock Screen widget
+Shared/        Shared models and the string catalog
+scripts/       App icon generator
 ```
 
-## Çalıştırma
+## Getting started
 
-Gereken: Xcode 27 ve [XcodeGen](https://github.com/yonaskolb/XcodeGen).
+Requirements: Xcode 27 and [XcodeGen](https://github.com/yonaskolb/XcodeGen).
 
 ```bash
 xcodegen generate
@@ -105,24 +105,24 @@ xcodegen generate
 open Note.xcodeproj
 ```
 
-Gerçek cihaz için Xcode'da imzalama ekibini seçin ve `group.com.masterfabric.note` uygulama grubunu etkinleştirin (widget verisi bu grup üzerinden paylaşılır).
+For a real device, choose your signing team in Xcode and enable the `group.com.masterfabric.note` App Group. The widget reads its data through that group.
 
-App icon'u yeniden üretmek için:
+To regenerate the app icon:
 
 ```bash
 swift scripts/make-icon.swift docs/app-icon.png
 ```
 
-## Durum
+## Status
 
-- iPhone ve iPhone Duo simülatörlerinde denendi.
-- Apple Watch uygulaması ve widget derleniyor; henüz bir cihazda ya da simülatörde çalıştırılarak denenmedi.
-- Çeviriler makine yazımıdır.
+- Tested on the iPhone and iPhone Duo simulators.
+- The Apple Watch app and the widget build, but have not yet been run on a device or simulator.
+- The app is in English only.
 
-## Lisans
+## License
 
-Bu proje [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0) ile lisanslanmıştır. MasterFabric'in [osmea](https://github.com/masterfabric-mobile/osmea) projesiyle aynı lisans. Yazılımı değiştirip ağ üzerinden sunarsanız, değişikliklerinizin kaynak kodunu aynı lisansla kullanıcılarınıza sunmanız gerekir.
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0), the same license as MasterFabric's [osmea](https://github.com/masterfabric-mobile/osmea) project. If you modify the software and offer it to users over a network, you must make your modified source available under the same license.
 
-## Yazar
+## Author
 
 **Gürkan Fikret Günak** — [MasterFabric](https://masterfabric.co) · [@gurkanfikretgunak](https://github.com/gurkanfikretgunak)
