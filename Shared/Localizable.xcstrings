@@ -1,0 +1,1276 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%lld pages": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld sayfa"
+          }
+        }
+      }
+    },
+    "%lld pages · A4 · %@": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld sayfa · A4 · %@"
+          }
+        }
+      }
+    },
+    "2D slide": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2D kaydırma"
+          }
+        }
+      }
+    },
+    "3D page curl": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3D sayfa kıvırma"
+          }
+        }
+      }
+    },
+    "AI agents": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yapay zekâ agent'ları"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hakkında"
+          }
+        }
+      }
+    },
+    "Actions": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İşlemler"
+          }
+        }
+      }
+    },
+    "Add": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ekle"
+          }
+        }
+      }
+    },
+    "Add Page": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sayfa Ekle"
+          }
+        }
+      }
+    },
+    "Add Quick Note": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Not Ekle"
+          }
+        }
+      }
+    },
+    "Adds a text note to the Quick Notes notebook.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Notlar defterine bir metin notu ekler."
+          }
+        }
+      }
+    },
+    "All Pages": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tüm Sayfalar"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Görünüm"
+          }
+        }
+      }
+    },
+    "Author": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yazar"
+          }
+        }
+      }
+    },
+    "Black": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siyah"
+          }
+        }
+      }
+    },
+    "Blank": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Düz"
+          }
+        }
+      }
+    },
+    "Blue": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mavi"
+          }
+        }
+      }
+    },
+    "Bring to Front": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Öne Getir"
+          }
+        }
+      }
+    },
+    "Bubble": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Balon"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vazgeç"
+          }
+        }
+      }
+    },
+    "Change Cover": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapağı Değiştir"
+          }
+        }
+      }
+    },
+    "Clean Up My Notes": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notlarımı Temize Çek"
+          }
+        }
+      }
+    },
+    "Clear Drawing": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çizimi Temizle"
+          }
+        }
+      }
+    },
+    "Clear all drawing on this page?": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu sayfadaki tüm çizim silinsin mi?"
+          }
+        }
+      }
+    },
+    "Color": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Renk"
+          }
+        }
+      }
+    },
+    "Composition Book": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defter"
+          }
+        }
+      }
+    },
+    "Continue Writing": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yazmaya Devam Et"
+          }
+        }
+      }
+    },
+    "Continue where you left off, or jot a quick note.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaldığın yerden devam et ya da hızlıca not al."
+          }
+        }
+      }
+    },
+    "Copy Handwriting as Text": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El Yazısını Metin Olarak Kopyala"
+          }
+        }
+      }
+    },
+    "Coral": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mercan"
+          }
+        }
+      }
+    },
+    "Cover color": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapak rengi"
+          }
+        }
+      }
+    },
+    "Cover pattern": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapak deseni"
+          }
+        }
+      }
+    },
+    "Create": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oluştur"
+          }
+        }
+      }
+    },
+    "DEADLINE": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SON TARİH"
+          }
+        }
+      }
+    },
+    "DONE": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TAMAM"
+          }
+        }
+      }
+    },
+    "Dark": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Koyu"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sil"
+          }
+        }
+      }
+    },
+    "Delete Page": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sayfayı Sil"
+          }
+        }
+      }
+    },
+    "Delete this notebook and all of its pages?": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu defter ve tüm sayfaları silinsin mi?"
+          }
+        }
+      }
+    },
+    "Delete this page?": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu sayfa silinsin mi?"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bitti"
+          }
+        }
+      }
+    },
+    "Dotted": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Noktalı"
+          }
+        }
+      }
+    },
+    "Draw": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çiz"
+          }
+        }
+      }
+    },
+    "Draw only with Apple Pencil": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yalnızca Apple Pencil ile çiz"
+          }
+        }
+      }
+    },
+    "Duplicate Page": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sayfayı Çoğalt"
+          }
+        }
+      }
+    },
+    "Edit Cover": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapağı Düzenle"
+          }
+        }
+      }
+    },
+    "Edit Text": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metni Düzenle"
+          }
+        }
+      }
+    },
+    "Geometric": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geometrik"
+          }
+        }
+      }
+    },
+    "Get Latest Note": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son Notu Getir"
+          }
+        }
+      }
+    },
+    "GitHub": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub"
+          }
+        }
+      }
+    },
+    "Green": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeşil"
+          }
+        }
+      }
+    },
+    "Guide lines": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kılavuz çizgili"
+          }
+        }
+      }
+    },
+    "Handwriting (recognized on device):": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El yazısı (cihazda tanındı):"
+          }
+        }
+      }
+    },
+    "Haptic feedback": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dokunsal geri bildirim"
+          }
+        }
+      }
+    },
+    "Highlight": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vurgu"
+          }
+        }
+      }
+    },
+    "IDEA": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FİKİR"
+          }
+        }
+      }
+    },
+    "IMPORTANT": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ÖNEMLİ"
+          }
+        }
+      }
+    },
+    "In reading mode, swipe to turn pages. While drawing with a finger, use the arrows at the top.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Okuma modunda sayfaları kaydırarak çevir. Parmakla çizerken üstteki okları kullan."
+          }
+        }
+      }
+    },
+    "Labels": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etiketler"
+          }
+        }
+      }
+    },
+    "Latest Note": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son Not"
+          }
+        }
+      }
+    },
+    "Light": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Açık"
+          }
+        }
+      }
+    },
+    "Lined": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çizgili"
+          }
+        }
+      }
+    },
+    "Marble": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mermer"
+          }
+        }
+      }
+    },
+    "Mode": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mod"
+          }
+        }
+      }
+    },
+    "Mosaic": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mozaik"
+          }
+        }
+      }
+    },
+    "New Notebook": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeni Defter"
+          }
+        }
+      }
+    },
+    "New notebooks": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeni defterler"
+          }
+        }
+      }
+    },
+    "Next page": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sonraki sayfa"
+          }
+        }
+      }
+    },
+    "No notes yet": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Henüz not yok"
+          }
+        }
+      }
+    },
+    "Notebook name": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defter adı"
+          }
+        }
+      }
+    },
+    "Notebook not found": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defter bulunamadı"
+          }
+        }
+      }
+    },
+    "Notebook: %@ · page %lld. The page image is attached.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defter: %@ · sayfa %lld. Sayfanın görseli ektedir."
+          }
+        }
+      }
+    },
+    "Notebooks": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defterler"
+          }
+        }
+      }
+    },
+    "Notes you type on iPhone show up here.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iPhone'da yazdığın notlar burada görünür."
+          }
+        }
+      }
+    },
+    "Open": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aç"
+          }
+        }
+      }
+    },
+    "Open notebooks in reading mode": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defterleri okuma modunda aç"
+          }
+        }
+      }
+    },
+    "Opens the notebook you used last.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En son kullandığın defteri açar."
+          }
+        }
+      }
+    },
+    "Page turn": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sayfa geçişi"
+          }
+        }
+      }
+    },
+    "Pages": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sayfalar"
+          }
+        }
+      }
+    },
+    "Paper": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kâğıt"
+          }
+        }
+      }
+    },
+    "Photo": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fotoğraf"
+          }
+        }
+      }
+    },
+    "Previous page": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Önceki sayfa"
+          }
+        }
+      }
+    },
+    "Purple": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mor"
+          }
+        }
+      }
+    },
+    "QUESTION": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SORU"
+          }
+        }
+      }
+    },
+    "Quick Note": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Not"
+          }
+        }
+      }
+    },
+    "Quick Notes": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Notlar"
+          }
+        }
+      }
+    },
+    "Read": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oku"
+          }
+        }
+      }
+    },
+    "Recent notes": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son notlar"
+          }
+        }
+      }
+    },
+    "Red": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kırmızı"
+          }
+        }
+      }
+    },
+    "Returns the text of the most recently edited page.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En son düzenlenen sayfanın metnini döndürür."
+          }
+        }
+      }
+    },
+    "Rewrite this notebook page as clean, well-organized notes. Keep every fact.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu defter sayfasını temiz ve düzenli notlar olarak yeniden yaz. Hiçbir bilgiyi atlama."
+          }
+        }
+      }
+    },
+    "Rings": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halkalar"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaydet"
+          }
+        }
+      }
+    },
+    "Saved to Quick Notes.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hızlı Notlar'a kaydedildi."
+          }
+        }
+      }
+    },
+    "Script": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El yazısı"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayarlar"
+          }
+        }
+      }
+    },
+    "Shapes": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Şekiller"
+          }
+        }
+      }
+    },
+    "Share Notebook as PDF": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defteri PDF Olarak Paylaş"
+          }
+        }
+      }
+    },
+    "Share Page": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sayfayı Paylaş"
+          }
+        }
+      }
+    },
+    "Share as PDF": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF Olarak Paylaş"
+          }
+        }
+      }
+    },
+    "Show cover when folded": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Katlıyken kapağı göster"
+          }
+        }
+      }
+    },
+    "Squared": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kareli"
+          }
+        }
+      }
+    },
+    "Stickers": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çıkartmalar"
+          }
+        }
+      }
+    },
+    "Stickers & Objects": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Çıkartmalar ve Nesneler"
+          }
+        }
+      }
+    },
+    "Sticky notes & tape": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yapışkan notlar ve bant"
+          }
+        }
+      }
+    },
+    "Styled text": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stilli metin"
+          }
+        }
+      }
+    },
+    "Summarize this notebook page in a few bullet points.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu defter sayfasını birkaç madde hâlinde özetle."
+          }
+        }
+      }
+    },
+    "Summarize with an Agent": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agent ile Özetle"
+          }
+        }
+      }
+    },
+    "System": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistem"
+          }
+        }
+      }
+    },
+    "TO DO": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "YAPILACAK"
+          }
+        }
+      }
+    },
+    "Teal": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turkuaz"
+          }
+        }
+      }
+    },
+    "Text": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metin"
+          }
+        }
+      }
+    },
+    "Theme": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tema"
+          }
+        }
+      }
+    },
+    "Title": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Başlık"
+          }
+        }
+      }
+    },
+    "Turn into To-Do List": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yapılacaklar Listesine Çevir"
+          }
+        }
+      }
+    },
+    "Turn this notebook page into a clear to-do list.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu defter sayfasını net bir yapılacaklar listesine çevir."
+          }
+        }
+      }
+    },
+    "Type": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yaz"
+          }
+        }
+      }
+    },
+    "Typed text:": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yazılan metin:"
+          }
+        }
+      }
+    },
+    "Typewriter": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daktilo"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sürüm"
+          }
+        }
+      }
+    },
+    "Warm reading paper": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sıcak tonlu okuma kâğıdı"
+          }
+        }
+      }
+    },
+    "Waves": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dalgalar"
+          }
+        }
+      }
+    },
+    "Website": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Web sitesi"
+          }
+        }
+      }
+    },
+    "With Apple Pencil only, your finger turns pages and the Pencil writes.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yalnızca Apple Pencil açıkken parmağın sayfa çevirir, Pencil yazar."
+          }
+        }
+      }
+    },
+    "Write or dictate": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yaz veya dikte et"
+          }
+        }
+      }
+    },
+    "Writing": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yazım"
+          }
+        }
+      }
+    },
+    "Your notebooks stay on this device.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Defterlerin bu cihazda kalır."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

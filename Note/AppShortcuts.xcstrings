@@ -1,0 +1,46 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Add a quick note in ${applicationName}": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${applicationName} ile hızlı not ekle"
+          }
+        }
+      }
+    },
+    "Continue writing in ${applicationName}": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "${applicationName} ile yazmaya devam et"
+          }
+        }
+      }
+    },
+    "Get my latest ${applicationName} note": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son ${applicationName} notumu getir"
+          }
+        }
+      }
+    },
+    "New ${applicationName} quick note": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeni ${applicationName} hızlı notu"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

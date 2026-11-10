@@ -1,0 +1,97 @@
+name: Note
+options:
+  bundleIdPrefix: com.masterfabric
+  deploymentTarget:
+    iOS: "18.0"
+    watchOS: "11.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+targets:
+  Note:
+    type: application
+    platform: iOS
+    sources:
+      - Note
+      - Shared
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.masterfabric.note
+        PRODUCT_NAME: Note
+        TARGETED_DEVICE_FAMILY: "1,2"
+    info:
+      path: Note/Info.plist
+      properties:
+        CFBundleDisplayName: Note
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        CFBundleURLTypes:
+          - CFBundleURLName: com.masterfabric.note
+            CFBundleURLSchemes: [mfnote]
+        UIApplicationShortcutItems:
+          - UIApplicationShortcutItemType: quick-note
+            UIApplicationShortcutItemTitle: Quick Note
+            UIApplicationShortcutItemIconSymbolName: bolt.fill
+          - UIApplicationShortcutItemType: new-notebook
+            UIApplicationShortcutItemTitle: New Notebook
+            UIApplicationShortcutItemIconSymbolName: plus.rectangle.portrait
+          - UIApplicationShortcutItemType: continue
+            UIApplicationShortcutItemTitle: Continue Writing
+            UIApplicationShortcutItemIconSymbolName: pencil.tip
+    entitlements:
+      path: Note/Note.entitlements
+      properties:
+        com.apple.security.application-groups: [group.com.masterfabric.note]
+    dependencies:
+      - target: NoteWatch
+      - target: NoteWidget
+  NoteWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - NoteWidget
+      - Shared
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.masterfabric.note.widget
+        TARGETED_DEVICE_FAMILY: "1,2"
+    info:
+      path: NoteWidget/Info.plist
+      properties:
+        CFBundleDisplayName: Note
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    entitlements:
+      path: NoteWidget/NoteWidget.entitlements
+      properties:
+        com.apple.security.application-groups: [group.com.masterfabric.note]
+  NoteWatch:
+    type: application
+    platform: watchOS
+    sources:
+      - NoteWatch
+      - Shared
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.masterfabric.note.watchkitapp
+        PRODUCT_NAME: NoteWatch
+    info:
+      path: NoteWatch/Info.plist
+      properties:
+        CFBundleDisplayName: Note
+        WKApplication: true
+        WKCompanionAppBundleIdentifier: com.masterfabric.note
